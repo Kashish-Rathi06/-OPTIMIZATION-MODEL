@@ -93,7 +93,7 @@ This script provides a simple but powerful ML model deployment example. It demon
 
 #OUTPUT
 
-
+<img width="1913" height="1075" alt="Image" src="https://github.com/user-attachments/assets/4db91673-fcfb-4b63-8658-078296e7f97e" />
 
 
 
