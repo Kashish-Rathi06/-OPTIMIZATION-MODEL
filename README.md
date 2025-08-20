@@ -87,7 +87,13 @@ uvicorn app:app --reload
 ```
 
 ---
+### ✅ Conclusion
+This script provides a simple but powerful ML model deployment example. It demonstrates how to take a trained scikit-learn model and serve it via an API using FastAPI. This kind of setup is ideal for integrating ML models into production systems, front-end apps, or larger data pipelines.
+---
 
 #OUTPUT
-### ✅ Conclusion
+
+
+
+
 
